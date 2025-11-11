@@ -1,3 +1,4 @@
+# CMake Generated Files
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -10,6 +11,76 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+build*/
+
+# Generated Files
+*.exe
+*.dll
+*.o
+*.a
+*.cpl
+*.msstyles
+*.sys
+*.log
+*.efi
+*.bin
+*.com
+BOOTMGR
+*.iso
+*.img
+*.flp
+
+# Regstry Files
+BBI
+BCD*
+COMPONENTS
+DEFAULT
+DRIVERS
+ELAM
+SAM
+SECURITY
+SOFTWARE
+SYSTEM
+
+# Code Editor Config Files
+.vscode/
+.idea/
+.idx/
+*.sublime-project
+*.tmp
+*.atom
+config.cson
+*.cbp
+*.editorconfig
+*.wkspc
+*.prj
+project.xml
+project.properties
+pom.xml
+build.xml
+init.el
+*.tm_properties
+*.bluefish
+*.brackets.json
+*.bbeditproject
+*.plist
+*.project
+*.classpath
+*.settings
+*.launch
+prj.conf
+app.config
+*.iml
+*.yml
+*.yaml
+projectCodeStyle.xml
+encodings.xml
+vcs.xml
+*.metadata
+*.ste
+Extensions.txt
+MMDocumentTypes.xml
+*.komodoproject
 
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
